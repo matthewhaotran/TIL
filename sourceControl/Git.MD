@@ -21,3 +21,10 @@
 `git config --global color.diff auto`
 `git config --global color.interactive auto`
 `git config --global color.status auto`
+
+### Working on same project on two computer (solo)
+- Set up remote repo on computer 1, make changes, commit, and push to online repo
+- On computer, before working, pull down changes to get current state
+`git pull origin master`
+- Make changes, commit, and push to server
+- Back on computer 1, pull changes and make edits.
