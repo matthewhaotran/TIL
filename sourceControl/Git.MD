@@ -17,10 +17,10 @@
 
 ### To add color the Git CLI, use:
 
-`git config --global color.branch auto`
-`git config --global color.diff auto`
-`git config --global color.interactive auto`
-`git config --global color.status auto`
+- `git config --global color.branch auto`
+- `git config --global color.diff auto`
+- `git config --global color.interactive auto`
+- `git config --global color.status auto`
 
 ### Working on same project on two computer (solo)
 - Set up remote repo on computer 1, make changes, commit, and push to online repo
